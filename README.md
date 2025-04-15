@@ -1,5 +1,6 @@
 # Bataille-navale 
  Jeu de Bataille Navale à 2 Joueurs
+
 Ce projet est un jeu interactif pour deux joueurs inspiré de la bataille navale. Chaque joueur dispose d'une matrice de jeu de 8 cases de longueur par 8 cases de largeur dans laquelle il place stratégiquement ses bateaux.
 
 Comment ça marche ?
@@ -24,5 +25,5 @@ Le programme doit se lancer de cette façon:
 
 
  tsc main.ts
- 
+
  node main.js --mode simple --number 3
