@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Destroyer",
+        "size": 2,
+        "count": 2
+    },
+    {
+        "name": "Cruiser",
+        "size": 3,
+        "count": 1
+    }
+]
